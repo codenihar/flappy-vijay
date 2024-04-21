@@ -15,7 +15,7 @@ Clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/codenihar/flappy-vijay.git
-cd flappy-bird-game
+cd flappy-vijay
 ```
 
 ## Running the Game
